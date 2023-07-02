@@ -1,4 +1,4 @@
-# Use the official Go 1.19 base image
+
 FROM golang:1.19
 
 # Set the working directory inside the container
